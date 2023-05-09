@@ -8,9 +8,6 @@ The USGS is interested in building a new set of tools that will allow them to vi
 ## Instructions
 
 ### Create an Earthquake Visualization
-
-*image
-
 1. Get your dataset using the [USGA GeoJSON Feed](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) link. 
     - The USGS provides earthquake data in a number of different formats, updated every 5 minutes. You will see the following page once clicking the link:
     
@@ -29,8 +26,6 @@ The USGS is interested in building a new set of tools that will allow them to vi
     - Include popups that provide additional information about the earthquake when its associated marker is clicked.
 
     - Create a legend that will provide context for your map data.
+   
+<img width="1129" alt="Screenshot 2023-05-09 at 6 17 20 PM" src="https://github.com/margaretkhendre/Earthquake-Analysis-vs-Leaflet-Mapping-Challenge/assets/121995835/c5b0d984-8d72-4b70-af27-6bb1f9ebead2">
 
-* screenshot of map
-
-
-    
